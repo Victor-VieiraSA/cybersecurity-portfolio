@@ -1,6 +1,6 @@
 # Portfólio de Cibersegurança
 
-Este repositório reúne minhas atividades práticas, estudos de caso e projetos desenvolvidos ao longo da minha formação em cibersegurança — iniciando pelos exercícios do **Google Cybersecurity Certificate**.
+Este repositório reúne minhas atividades práticas, estudos de caso e projetos desenvolvidos ao longo da minha formação em cibersegurança - iniciando pelos exercícios do **Google Cybersecurity Certificate**.
 
 O objetivo deste portfólio é documentar minha evolução técnica e analítica em áreas como auditoria de segurança, gestão de riscos, conformidade, análise de incidentes e proteção de ativos.
 
